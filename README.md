@@ -40,6 +40,7 @@
     - <a href = "">循环神经网络的应用</a>
   - <a href = "">序列到序列模型(seq2seq)</a>
   - <a href = "">注意力机制(Attention Mechanism)</a>
+  - <a href = "">图卷积神经网络(GCN)</a>
 - <a href = "">深度学习Tips</a>
   - <a href = "">权重矩阵初始化</a>
   - <a href = "">梯度下降优化算法</a>
@@ -51,6 +52,9 @@
     - <a href = "">丢弃法(Dropout)</a>
     - <a href = "">数据增强</a>
     - <a href = "">集成学习(Ensemble Learning)</a>
+- <a href = "">模型部署</a>
+  - <a href  = "">ONNX</a>
+  - <a href = "">实战</a>
 
 # 推荐资源
 
