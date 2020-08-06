@@ -8,3 +8,5 @@
 
 \[2\] [keras for attention](https://blog.csdn.net/u010041824/article/details/78855435)
 
+\[3\] [Keras Self-Attention](https://pypi.org/project/keras-self-attention/)
+
