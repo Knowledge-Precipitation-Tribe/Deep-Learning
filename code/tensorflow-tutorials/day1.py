@@ -27,7 +27,7 @@ def matrix_op():
 def matrix_op2():
     sess = tf.InteractiveSession()
     x = tf.Variable(tf.eye(10))
-    
+
     x.initializer.run()
     print(x.eval())
 
