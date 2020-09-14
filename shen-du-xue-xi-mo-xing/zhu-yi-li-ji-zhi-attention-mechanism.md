@@ -10,5 +10,15 @@
 
 {% embed url="https://pypi.org/project/keras-self-attention/" %}
 
+{% embed url="https://jalammar.github.io/illustrated-transformer/" %}
+
+{% embed url="https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/" %}
+
+{% embed url="https://blog.csdn.net/xiaosongshine/article/details/90573585" %}
+
+{% embed url="https://blog.csdn.net/xiaosongshine/article/details/90600028" %}
+
+
+
 
 
