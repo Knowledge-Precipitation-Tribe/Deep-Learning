@@ -4,7 +4,7 @@
 
 ## 深度学习基础
 
-* [Untitled](shen-du-xue-xi-ji-chu/untitled.md)
+* [神经网络基本工作原理](shen-du-xue-xi-ji-chu/untitled.md)
 
 ## 深度学习模型
 
