@@ -9,7 +9,8 @@
 ## 深度学习模型
 
 * [Untitled](shen-du-xue-xi-mo-xing/untitled.md)
-* [注意力机制\(Attention Mechanism\)](shen-du-xue-xi-mo-xing/zhu-yi-li-ji-zhi-attention-mechanism.md)
+* [注意力机制\(Attention Mechanism\)](shen-du-xue-xi-mo-xing/zhu-yi-li-ji-zhi-attention-mechanism/README.md)
+  * [self-attention](shen-du-xue-xi-mo-xing/zhu-yi-li-ji-zhi-attention-mechanism/self-attention.md)
 
 ## Tips
 
