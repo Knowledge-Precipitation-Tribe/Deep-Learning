@@ -41,9 +41,9 @@
   * [self-attention](tips/zhu-yi-li-ji-zhi-attention-mechanism/self-attention.md)
 * [Untitled](tips/untitled.md)
 
-## Tricks
+## 模型部署
 
-* [Untitled](tricks/untitled.md)
+* [Untitled](mo-xing-bu-shu/untitled.md)
 
 ---
 
