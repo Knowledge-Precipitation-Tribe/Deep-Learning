@@ -7,16 +7,17 @@
 ## 目录
 
 * 深度学习基础
+  * [数据](shen-du-xue-xi-ji-chu/shu-ju.md)
   * [神经网络基本工作原理](shen-du-xue-xi-ji-chu/untitled.md)
-  * 神经网络训练过程
-  * 神经网络的主要能力
-  * 反向传播，梯度下降与损失函数
-    * 反向传播
-    * 梯度下降
-    * 损失函数
-  * 训练集，验证集与测试集
+  * [神经网络训练过程](shen-du-xue-xi-ji-chu/shen-jing-wang-luo-de-xun-lian-guo-cheng.md)
+  * [神经网络的主要能力](shen-du-xue-xi-ji-chu/shen-jing-wang-luo-de-zhu-yao-neng-li.md)
+  * [反向传播，梯度下降与损失函数](shen-du-xue-xi-ji-chu/fan-xiang-chuan-bo-ti-du-xia-jiang-yu-sun-shi-han-shu/)
+    * [反向传播](shen-du-xue-xi-ji-chu/fan-xiang-chuan-bo-ti-du-xia-jiang-yu-sun-shi-han-shu/fan-xiang-chuan-bo/)
+    * [梯度下降](shen-du-xue-xi-ji-chu/fan-xiang-chuan-bo-ti-du-xia-jiang-yu-sun-shi-han-shu/ti-du-xia-jiang.md)
+    * [损失函数](shen-du-xue-xi-ji-chu/fan-xiang-chuan-bo-ti-du-xia-jiang-yu-sun-shi-han-shu/sun-shi-han-shu.md)
+  * 数据集
   * 过拟合与欠拟合
-    * 过拟合
+    * 过拟
     * 欠拟合
   * 评价指标
     * 回归问题常用评价指标
