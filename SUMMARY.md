@@ -25,7 +25,9 @@
     * [早停法 Early Stopping](shen-du-xue-xi-ji-chu/guo-ni-he-yu-qian-ni-he/guo-ni-he-chu-li-fang-fa/zao-ting-fa-early-stopping.md)
     * [丢弃法 Dropout](shen-du-xue-xi-ji-chu/guo-ni-he-yu-qian-ni-he/guo-ni-he-chu-li-fang-fa/diu-qi-fa-dropout.md)
     * [数据增强 Data Augmentation](shen-du-xue-xi-ji-chu/guo-ni-he-yu-qian-ni-he/guo-ni-he-chu-li-fang-fa/shu-ju-zeng-qiang-data-augmentation.md)
-* [评价指标](shen-du-xue-xi-ji-chu/ping-jia-zhi-biao.md)
+* [评价指标](shen-du-xue-xi-ji-chu/ping-jia-zhi-biao/README.md)
+  * [回归问题常用评价指标](shen-du-xue-xi-ji-chu/ping-jia-zhi-biao/hui-gui-wen-ti-chang-yong-ping-jia-zhi-biao.md)
+  * [分类问题常用评价指标](shen-du-xue-xi-ji-chu/ping-jia-zhi-biao/fen-lei-wen-ti-chang-yong-ping-jia-zhi-biao.md)
 * [集成学习](shen-du-xue-xi-ji-chu/ji-cheng-xue-xi.md)
 
 ## 深度学习模型

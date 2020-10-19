@@ -15,15 +15,14 @@
     * [反向传播](shen-du-xue-xi-ji-chu/fan-xiang-chuan-bo-ti-du-xia-jiang-yu-sun-shi-han-shu/fan-xiang-chuan-bo/)
     * [梯度下降](shen-du-xue-xi-ji-chu/fan-xiang-chuan-bo-ti-du-xia-jiang-yu-sun-shi-han-shu/ti-du-xia-jiang.md)
     * [损失函数](shen-du-xue-xi-ji-chu/fan-xiang-chuan-bo-ti-du-xia-jiang-yu-sun-shi-han-shu/sun-shi-han-shu.md)
-  * 数据集
-  * 过拟合与欠拟合
-    * 过拟
-    * 欠拟合
-  * 评价指标
-    * 回归问题常用评价指标
-    * 分类问题常用评价指标
-  * 偏差与方差
-  * 激活函数
+  * [数据集](shen-du-xue-xi-ji-chu/shu-ju-ji/)
+  * [过拟合与欠拟合](shen-du-xue-xi-ji-chu/guo-ni-he-yu-qian-ni-he/)
+    * [偏差与方差](shen-du-xue-xi-ji-chu/guo-ni-he-yu-qian-ni-he/pian-cha-yu-fang-cha.md)
+    * [过拟合处理方法](shen-du-xue-xi-ji-chu/guo-ni-he-yu-qian-ni-he/guo-ni-he-chu-li-fang-fa/)
+  * [评价指标](shen-du-xue-xi-ji-chu/ping-jia-zhi-biao/)
+    * [回归问题常用评价指标](shen-du-xue-xi-ji-chu/ping-jia-zhi-biao/hui-gui-wen-ti-chang-yong-ping-jia-zhi-biao.md)
+    * [分类问题常用评价指标](shen-du-xue-xi-ji-chu/ping-jia-zhi-biao/fen-lei-wen-ti-chang-yong-ping-jia-zhi-biao.md)
+  * [集成学习](shen-du-xue-xi-ji-chu/ji-cheng-xue-xi.md)
 * 深度学习模型
   * 神经网络\(Neural Network\)
     * 线性回归
