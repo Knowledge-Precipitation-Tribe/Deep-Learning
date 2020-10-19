@@ -65,5 +65,9 @@
 
 {% embed url="https://github.com/microsoft/ai-edu" %}
 
+{% embed url="https://nndl.github.io/" %}
+
+{% embed url="https://book.douban.com/subject/27087503/" %}
+
 
 
