@@ -16,6 +16,7 @@
   * [梯度下降](shen-du-xue-xi-ji-chu/fan-xiang-chuan-bo-ti-du-xia-jiang-yu-sun-shi-han-shu/ti-du-xia-jiang.md)
   * [损失函数](shen-du-xue-xi-ji-chu/fan-xiang-chuan-bo-ti-du-xia-jiang-yu-sun-shi-han-shu/sun-shi-han-shu.md)
 * [数据集](shen-du-xue-xi-ji-chu/shu-ju-ji/README.md)
+  * [数据集的处理方式](shen-du-xue-xi-ji-chu/shu-ju-ji/shu-ju-ji-de-chu-li-fang-shi.md)
   * [分类样本不均衡问题](shen-du-xue-xi-ji-chu/shu-ju-ji/fen-lei-yang-ben-bu-jun-heng-wen-ti.md)
 * [过拟合与欠拟合](shen-du-xue-xi-ji-chu/guo-ni-he-yu-qian-ni-he/README.md)
   * [偏差与方差](shen-du-xue-xi-ji-chu/guo-ni-he-yu-qian-ni-he/pian-cha-yu-fang-cha.md)
