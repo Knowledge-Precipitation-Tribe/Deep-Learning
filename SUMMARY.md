@@ -37,8 +37,10 @@
 
 ## Tips
 
-* [注意力机制\(Attention Mechanism\)](tips/zhu-yi-li-ji-zhi-attention-mechanism/README.md)
-  * [self-attention](tips/zhu-yi-li-ji-zhi-attention-mechanism/self-attention.md)
+* [Encoder-Decoder](tips/encoder-decoder.md)
+* [注意力机制\(Attention Mechanism\)](tips/zhu-yi-li-ji-zhi-attention-mechanism.md)
+* [self-attention](tips/self-attention.md)
+* [Transformer](tips/transformer.md)
 * [Untitled](tips/untitled.md)
 
 ## 模型部署
