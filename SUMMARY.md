@@ -35,6 +35,10 @@
 
 * [Untitled](shen-du-xue-xi-mo-xing/untitled.md)
 
+## 图神经网络
+
+* [推荐资源](tu-shen-jing-wang-luo/tui-jian-zi-yuan.md)
+
 ## Tips
 
 * [Encoder-Decoder](tips/encoder-decoder.md)
@@ -45,7 +49,7 @@
 
 ## 模型部署
 
-* [Untitled](mo-xing-bu-shu/untitled.md)
+* [ONNX](mo-xing-bu-shu/untitled.md)
 
 ---
 

@@ -45,7 +45,8 @@
     * 循环神经网络的应用
   * 序列到序列模型\(seq2seq\)
   * 注意力机制\(Attention Mechanism\)
-  * 图卷积神经网络\(GCN\)
+* 图神经网络
+  * [推荐资源](tu-shen-jing-wang-luo/tui-jian-zi-yuan.md)
 * 深度学习Tips
   * 权重矩阵初始化
   * 梯度下降优化算法
@@ -58,8 +59,10 @@
     * 数据增强
     * 集成学习\(Ensemble Learning\)
 * 模型部署
-  * ONNX
+  * [ONNX](mo-xing-bu-shu/untitled.md)
+  * tensorflow serving
   * 实战
+* [参考文献](can-kao-wen-xian.md)
 
 ## 推荐阅读
 
