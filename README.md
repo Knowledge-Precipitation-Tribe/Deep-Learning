@@ -60,8 +60,8 @@
     * 集成学习\(Ensemble Learning\)
 * 模型部署
   * [ONNX](mo-xing-bu-shu/untitled.md)
-  * tensorflow serving
-  * 实战
+  * [tensorflow serving](mo-xing-bu-shu/tensorflow-serving.md)
+  * [实战](mo-xing-bu-shu/shi-zhan.md)
 * [参考文献](can-kao-wen-xian.md)
 
 ## 推荐阅读

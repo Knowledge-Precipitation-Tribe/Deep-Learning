@@ -54,6 +54,8 @@
 ## 模型部署
 
 * [ONNX](mo-xing-bu-shu/untitled.md)
+* [tensorflow serving](mo-xing-bu-shu/tensorflow-serving.md)
+* [实战](mo-xing-bu-shu/shi-zhan.md)
 
 ---
 
