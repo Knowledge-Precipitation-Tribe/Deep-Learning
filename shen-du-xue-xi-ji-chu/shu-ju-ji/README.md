@@ -34,6 +34,8 @@ from sklearn.model_selection import train_test_split
 train_set, test_set = train_test_split(data, test_size=0.2, random_state=42)
 ```
 
+还需要注意的是，我们在划分数据集时需要尽量使数据分布均匀，不能训练集代表一个群体，测试集代表另一个群体，那么模型得到的效果一定是有偏差的，所以我们需要使用分层采样的方式，让训练集和测试集尽可能的分布均匀。
+
 ## **三者关系**
 
 三者的关系如下图所示
