@@ -11,7 +11,7 @@
 
 * [数据](shen-du-xue-xi-ji-chu/shu-ju.md)
 * [神经网络基本工作原理](shen-du-xue-xi-ji-chu/untitled.md)
-* [神经网络的训练过程](shen-du-xue-xi-ji-chu/shen-jing-wang-luo-de-xun-lian-guo-cheng.md)
+* [项目流程](shen-du-xue-xi-ji-chu/shen-jing-wang-luo-de-xun-lian-guo-cheng.md)
 * [神经网络的主要能力](shen-du-xue-xi-ji-chu/shen-jing-wang-luo-de-zhu-yao-neng-li.md)
 * [反向传播、梯度下降与损失函数](shen-du-xue-xi-ji-chu/fan-xiang-chuan-bo-ti-du-xia-jiang-yu-sun-shi-han-shu/README.md)
   * [反向传播](shen-du-xue-xi-ji-chu/fan-xiang-chuan-bo-ti-du-xia-jiang-yu-sun-shi-han-shu/fan-xiang-chuan-bo/README.md)
