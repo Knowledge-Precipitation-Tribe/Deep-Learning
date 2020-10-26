@@ -21,6 +21,21 @@ Validation Set，是模型训练过程中单独留出的样本集，它可以用
 
 Test Set，用来评估最终模型的泛化能力。**但不能作为调参、选择特征等算法相关的选择的依据。**
 
+测试集的生成理论上来说很简单，但是有些细节需要注意**：**
+
+* 通过随机切片的方式获取测试集，要注意设置随机种子，防止多次运行程序获得了全部数据
+* 但是设置随机种子的方式也并不完美，如果你更新数据集后也会打破原来的切分方式
+* 可以通过每行数据中的唯一标示来计算Hash值，然后根据Hash值进行划分
+
+sklearn中提供的train\_test\_split方法是一种比较方便的切分数据的方式。
+
+```python
+from sklearn.model_selection import train_test_split
+train_set, test_set = train_test_split(data, test_size=0.2, random_state=42)
+```
+
+## **三者关系**
+
 三者的关系如下图所示
 
 ![](../../.gitbook/assets/image%20%285%29.png)
