@@ -37,7 +37,8 @@
 
 ## 深度学习模型
 
-* [Untitled](shen-du-xue-xi-mo-xing/untitled.md)
+* [RNN](shen-du-xue-xi-mo-xing/untitled.md)
+* [LSTM](shen-du-xue-xi-mo-xing/lstm.md)
 
 ## 图神经网络
 
