@@ -39,6 +39,7 @@
 
 * [RNN](shen-du-xue-xi-mo-xing/untitled.md)
 * [LSTM](shen-du-xue-xi-mo-xing/lstm.md)
+* [GRU](shen-du-xue-xi-mo-xing/gru.md)
 
 ## 图神经网络
 
@@ -60,5 +61,6 @@
 
 ---
 
+* [小工具](xiao-gong-ju.md)
 * [参考文献](can-kao-wen-xian.md)
 
