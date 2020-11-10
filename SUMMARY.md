@@ -41,17 +41,17 @@
 * [LSTM](shen-du-xue-xi-mo-xing/lstm.md)
 * [GRU](shen-du-xue-xi-mo-xing/gru.md)
 
+## 高级模型
+
+* [Encoder-Decoder](gao-ji-mo-xing/encoder-decoder.md)
+* [注意力机制\(Attention Mechanism\)](gao-ji-mo-xing/zhu-yi-li-ji-zhi-attention-mechanism.md)
+* [self-attention](gao-ji-mo-xing/self-attention.md)
+* [Transformer](gao-ji-mo-xing/transformer.md)
+* [Untitled](gao-ji-mo-xing/untitled.md)
+
 ## 图神经网络
 
 * [推荐资源](tu-shen-jing-wang-luo/tui-jian-zi-yuan.md)
-
-## Tips
-
-* [Encoder-Decoder](tips/encoder-decoder.md)
-* [注意力机制\(Attention Mechanism\)](tips/zhu-yi-li-ji-zhi-attention-mechanism.md)
-* [self-attention](tips/self-attention.md)
-* [Transformer](tips/transformer.md)
-* [Untitled](tips/untitled.md)
 
 ## 模型部署
 
