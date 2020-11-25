@@ -33,10 +33,17 @@ if __name__ == '__main__':
     eta, batch_size, max_epoch = 0.5, 10, 10000
     eps = 0.001
 
-    hp = HyperParameters(n_input, n_hidden, n_output, eta, max_epoch, batch_size, eps, NetType.Fitting, InitialMethod.Xavier)
+    hp = HyperParameters(n_input,
+                         n_hidden,
+                         n_output,
+                         eta,
+                         max_epoch,
+                         batch_size,
+                         eps,
+                         NetType.Fitting,
+                         InitialMethod.Xavier)
     net = NeuralNet(hp, "save")
 
-    #加载训练好的权重
     net.train(dataReader, 50, True)
     net.ShowTrainingHistory()
     ShowResult(net, dataReader, hp.toString())
